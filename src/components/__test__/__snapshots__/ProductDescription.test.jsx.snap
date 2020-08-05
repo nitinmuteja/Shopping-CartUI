@@ -1,0 +1,121 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Product Description Component tests should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <h2>
+        Harry Potter and the Philosopher's Stone
+      </h2>
+      <br />
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-10"
+      />
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-2"
+      >
+        by JK Rowling
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      Rating: 4
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      Price: 4
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <h4>
+        Book Description:
+      </h4>
+      <p>
+        Hi, I'm Keshav, and my life is screwed. I hate my job and my girlfriend left me Hi, I'm Keshav, and my life is screwed. I hate my job and my girlfriend left meHi, I'm Keshav, and my life is screwed. I hate my job and my girlfriend left me
+      </p>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <label
+        class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-animated"
+        for="uncontrolled-native"
+      >
+        Quantity
+      </label>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline"
+      >
+        <select
+          class="MuiNativeSelect-root MuiNativeSelect-select MuiInputBase-input MuiInput-input MuiInputBase-inputSelect"
+          id="uncontrolled-native"
+          name="name"
+        >
+          <option
+            value=""
+          />
+          <option
+            selected=""
+            value="10"
+          >
+            1
+          </option>
+          <option
+            value="20"
+          >
+            2
+          </option>
+          <option
+            value="30"
+          >
+            5
+          </option>
+        </select>
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root MuiNativeSelect-icon"
+          focusable="false"
+          role="presentation"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M7 10l5 5 5-5z"
+          />
+        </svg>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-172"
+      >
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            Quick Buy
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6"
+    />
+  </div>
+</div>
+`;

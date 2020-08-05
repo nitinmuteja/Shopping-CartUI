@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Product Details Component should match snapshot 1`] = `
+<div>
+  <div>
+    <div>
+      Dummy Product Information Component
+    </div>
+  </div>
+</div>
+`;
